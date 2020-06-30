@@ -1,0 +1,8 @@
+"Date: Mon, 29 Nov 2010 21:54:29 +1100\r\n",
+"To: " "\r\n",
+"From: " "< lunchinatorassignment@gmail.com>" " (Rise Of Net Worth)\r\n",
+"Subject: You have been invited to play Rise Of Net Worth!\r\n",
+"\r\n", 
+"Download Rise of Net Worth at https://github.com/alvinsimzx. \r\n",
+"\r\n",
+NULL

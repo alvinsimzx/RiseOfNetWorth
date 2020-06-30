@@ -1,0 +1,5 @@
+﻿  Player.cpp
+C:\Users\Alvin\Desktop\CS Sem 3\Data Structure\COS30008_Project2_Prototype_101214747_AlvinSimZhongXian\RiseOfNetWorth\RiseOfNetWorth\Player.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alvin\Desktop\CS Sem 3\Data Structure\COS30008_Project2_Prototype_101214747_AlvinSimZhongXian\RiseOfNetWorth\RiseOfNetWorth\Player.cpp(189,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alvin\Desktop\CS Sem 3\Data Structure\COS30008_Project2_Prototype_101214747_AlvinSimZhongXian\RiseOfNetWorth\RiseOfNetWorth\Player.cpp(272,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  RiseOfNetWorth.vcxproj -> C:\Users\Alvin\Desktop\CS Sem 3\Data Structure\COS30008_Project2_Prototype_101214747_AlvinSimZhongXian\RiseOfNetWorth\Debug\RiseOfNetWorth.exe

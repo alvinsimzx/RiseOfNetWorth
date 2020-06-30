@@ -1,0 +1,32 @@
+﻿  Apartment.cpp
+  CorrectGuess.cpp
+  DialogueTree.cpp
+  DialogueTreeVisitor.cpp
+  Hotel.cpp
+  HousingEstate.cpp
+  InsufficientValuation.cpp
+  IPOCentre.cpp
+  IPOCentreState.cpp
+  Location.cpp
+  LocationIterator.cpp
+  MainDialogueVisitor.cpp
+  OppurtunityCard.cpp
+  Player.cpp
+C:\Users\Alvin\source\repos\RiseOfNetWorth\RiseOfNetWorth\Player.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alvin\source\repos\RiseOfNetWorth\RiseOfNetWorth\Player.cpp(189,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alvin\source\repos\RiseOfNetWorth\RiseOfNetWorth\Player.cpp(243,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PlayerXP.cpp
+  PlayerXPIterator.cpp
+  Properties.cpp
+  Queue.cpp
+  main.cpp
+  Stack.cpp
+  Compiling...
+  SufficientValuation.cpp
+main.obj : error LNK2001: unresolved external symbol __imp__curl_easy_perform
+main.obj : error LNK2001: unresolved external symbol __imp__curl_global_init
+main.obj : error LNK2001: unresolved external symbol __imp__curl_global_cleanup
+main.obj : error LNK2001: unresolved external symbol __imp__curl_easy_init
+main.obj : error LNK2001: unresolved external symbol __imp__curl_easy_cleanup
+main.obj : error LNK2001: unresolved external symbol __imp__curl_easy_setopt
+C:\Users\Alvin\source\repos\RiseOfNetWorth\Release\RiseOfNetWorth.exe : fatal error LNK1120: 6 unresolved externals
